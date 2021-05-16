@@ -60,4 +60,4 @@ bot.on('message', async (message) => {
   }
 });
 
-bot.login('ODQxNDA3MzY5MDI4MzA0OTc3.YJmTrQ.3TKw105hOrymIypI5ZyfV6aeDYQ')
+bot.login('TOKEN')
